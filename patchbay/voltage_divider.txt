@@ -1,0 +1,13 @@
+V1 = 1 V
+R1 = 2000 ohm
+R2 = 500 ohm
+
+V2 = 2 V
+R1 = 1000 ohm
+R2 = approx. 660 ohm
+
+V3 = 3 V
+R1 = 1000 ohm
+R2 = 1500 ohm
+
+V4 = 5V
